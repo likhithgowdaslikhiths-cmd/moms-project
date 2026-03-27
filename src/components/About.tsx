@@ -220,7 +220,7 @@ export default function About() {
           viewport={{ once: true }}
         >
           <motion.img
-            src="https://images.unsplash.com/photo-1609220136736-443140cffec6?w=1000&q=80"
+            src="/images/02.jpg"
             alt="Mother being cared for at home"
             className="w-full object-cover"
             style={{

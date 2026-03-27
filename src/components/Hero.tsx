@@ -9,23 +9,23 @@ interface Slide {
 
 const slides: Slide[] = [
   {
-    image: "https://images.unsplash.com/photo-1584515933487-779824d29309",
+    image: "/images/01.jpg",
     text: "An Appuge is the silent conversation of mother’s touch with the baby",
   },
   {
-    image: "https://images.unsplash.com/photo-1609220136736-443140cffec6",
+    image: "/images/02.jpg",
     text: "You are safe, you are home, you are protected",
   },
   {
-    image: "https://images.unsplash.com/photo-1519681393784-d120267933ba",
+    image: "/images/03.jpg",
     text: "Bridging ancestral hug & rituals with modern wellness",
   },
   {
-    image: "https://images.unsplash.com/photo-1544126592-807ade215a0b",
+    image: "/images/04.jpg",
     text: "In her arms, the world is small, quiet and perfectly safe",
   },
   {
-    image: "https://images.unsplash.com/photo-1505751172876-fa1923c5c528",
+    image: "/images/05.jpg",
     text: "Her love whispers through gestures, patience and sleepless nights",
   },
 ];
